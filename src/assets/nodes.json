@@ -1,0 +1,34 @@
+[
+  {
+    "title": "My first Node",
+    "url": "http://www.test.com/node1",
+    "status": "online",
+    "blocks": [
+      {
+        "code": "001",
+        "description": "Description code 001"
+      },
+      {
+        "code": "002",
+        "description": "Description code 002"
+      }
+
+    ]
+  },
+  {
+    "title": "My second Node",
+    "url": "http://www.test.com/node2",
+    "status": "offline",
+    "blocks": [
+      {
+        "code": "001",
+        "description": "Description code 001"
+      },
+      {
+        "code": "002",
+        "description": "Description code 002"
+      }
+
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+<app-nav>
+  <div class="container">
+
+    <span class="chevron left nav-bar-back pointer"  (click)="goBack()" *ngIf="!isHome">Back</span>
+    <span>Home</span>
+  </div>
+</app-nav>
+<router-outlet></router-outlet>
